@@ -1,0 +1,24 @@
+{
+  "defaultProvider": "codemaker",
+  "defaultModel": "deepseek-flash",
+  "defaultThinkingLevel": "max",
+  "packages": [
+    "npm:pi-goal-x",
+    "npm:pi-context-view",
+    "npm:@ssk_dev/pi-web-access-lean",
+    "npm:@ssk_dev/rpiv-todo-lean",
+    "npm:@ssk_dev/rpiv-ask-user-question-lean",
+    "npm:@ssk_dev/pi-subagents-lean",
+    "npm:pi-hashline-edit-pro-lean",
+    "npm:billion-context-pi-lean",
+    "npm:@ssk_dev/pi-docs-slim",
+    "npm:pi-quiet-tools",
+    "npm:@xyzensun/pi-sync"
+  ],
+  "terminal": {
+    "clearOnShrink": true,
+    "showTerminalProgress": true
+  },
+  "treeFilterMode": "no-tools",
+  "theme": "system"
+}
